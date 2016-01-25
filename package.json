@@ -9,9 +9,6 @@
   "author": "Manolo S",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.4",
-  },
-  "devDependencies": {
-    "gulp-nodemon": "^2.0.6"
+    "express": "^4.13.4"    
   }
 }
