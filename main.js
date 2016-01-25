@@ -1,7 +1,6 @@
 "use strict";
 
 var express = require('express');
-var errorHandler = require('express-error-handler');
 var app = express();
 var server;
 var port = process.env.PORT || 3000;
